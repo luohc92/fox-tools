@@ -1,6 +1,8 @@
 {
   "name": "fox-tools",
   "version": "1.0.10",
+  "description": "javascript utils",
+  "repository": "https://github.com/luohc92/fox-tools",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
