@@ -42,18 +42,6 @@ export const urlUtil: UrlUtil = {
   },
 
   /**
-   * 设置或更新查询参数
-   * @param key 参数名
-   * @param value 参数值
-   * @param url 待处理的 URL，默认当前地址
-   */
-  updateQueryParam: (key: string, value: string, url: string): string => {
-    const u = parseURL(url)
-    u.searchParams.set(key, value)
-    return u.toString()
-  },
-
-  /**
    * 移除指定查询参数
    * @param key 要删除的参数名
    * @param url 待处理的 URL，默认当前地址

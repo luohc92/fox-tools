@@ -1,6 +1,6 @@
 {
   "name": "fox-tools",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "javascript utils",
   "repository": "https://github.com/luohc92/fox-tools",
   "type": "module",
