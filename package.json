@@ -1,11 +1,27 @@
 {
-  "name": "nb-tool",
-  "version": "1.0.0",
-  "description": "",
+  "name": "fox-tools",
+  "version": "1.0.10",
   "type": "module",
-  "main": "index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "dev": "vitepress dev docs",
+    "build:site": "vitepress build docs"
   },
-  "private": true
+  "keywords": [
+    "utils",
+    "typescript",
+    "toolkit"
+  ],
+  "author": "luohc92",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite-plugin-dts": "^4.5.4",
+    "vitepress": "^1.6.3"
+  }
 }

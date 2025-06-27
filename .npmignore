@@ -1,0 +1,7 @@
+# .npmignore
+src/
+*.ts
+*.tsx
+*.vue
+.vscode/
+test/

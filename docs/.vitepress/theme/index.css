@@ -1,0 +1,13 @@
+:root {
+    --vp-sidebar-width: 320px;
+}
+
+.VPSidebarItem h2.text {
+    font-size: 16px;
+}
+
+.VPNavBarTitle .title span {
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
