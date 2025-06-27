@@ -12,7 +12,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "vitepress dev docs",
-    "build:site": "vitepress build docs"
+    "build:site": "vitepress build docs && xcopy /E /Y docs\\.vitepress\\dist\\* site\\"
   },
   "keywords": [
     "utils",
