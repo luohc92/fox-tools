@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ag as e}from"./chunks/framework.Bw-5EFTY.js";const g=JSON.parse('{"title":"dateUtil","description":"","frontmatter":{},"headers":[],"relativePath":"dateUtil.md","filePath":"dateUtil.md"}'),n={name:"dateUtil.md"};function l(p,s,h,d,r,k){return t(),a("div",null,s[0]||(s[0]=[e("",41)]))}const c=i(n,[["render",l]]);export{g as __pageData,c as default};

@@ -1,5 +1,7 @@
 # fox-tools
 
+javascript 工具库
+
 欢迎来到 fox-tools 的开发文档。
 
 ## 安装
