@@ -2,7 +2,8 @@ import {defineConfig} from 'vitepress'
 
 export default defineConfig({
   title: 'fox-tools',
-  description: '一套灵巧的 TypeScript 工具包 ✨',
+  description: '一套灵巧的 JavaScript 工具包 ✨',
+  base: '/fox-tools/',
   themeConfig: {
     search: {
       provider: 'local',

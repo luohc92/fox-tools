@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ag as n}from"./chunks/framework.BIjZygkc.js";const g=JSON.parse('{"title":"typeUtil","description":"","frontmatter":{},"headers":[],"relativePath":"typeUtil.md","filePath":"typeUtil.md"}'),e={name:"typeUtil.md"};function p(l,s,h,k,r,o){return t(),a("div",null,s[0]||(s[0]=[n("",65)]))}const E=i(e,[["render",p]]);export{g as __pageData,E as default};

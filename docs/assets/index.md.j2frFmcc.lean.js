@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as e,ag as o}from"./chunks/framework.BIjZygkc.js";const _=JSON.parse('{"title":"fox-tools","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function n(l,a,p,r,d,h){return e(),s("div",null,a[0]||(a[0]=[o("",6)]))}const f=t(i,[["render",n]]);export{_ as __pageData,f as default};
