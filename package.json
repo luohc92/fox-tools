@@ -11,8 +11,8 @@
   ],
   "scripts": {
     "build": "tsc",
-    "dev": "vitepress dev docs",
-    "build:site": "vitepress build docs && xcopy /E /Y docs\\.vitepress\\dist\\* site\\"
+    "dev": "vitepress dev site",
+    "build:site": "vitepress build site && xcopy /E /Y site\\.vitepress\\dist\\* docs\\"
   },
   "keywords": [
     "utils",
